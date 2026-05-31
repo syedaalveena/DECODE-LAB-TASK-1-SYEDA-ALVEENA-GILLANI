@@ -43,13 +43,14 @@ python password_checker.py
 
 ---
 
-## 📊 How Scoring Works
+##  How Scoring Works
 | Score | Strength |
 |-------|----------|
-| 0-1   | WEAK ❌  |
-| 2-3   | MEDIUM ⚠️ |
-| 4     | STRONG ✅ |
+| 0-1   | WEAK     |
+| 2-3   | MEDIUM   |
+| 4     | STRONG   |
 
 ---
 
 ## 📸 Output Example
+<img width="601" height="460" alt="Screenshot 2026-05-31 065710" src="https://github.com/user-attachments/assets/40550073-28ec-481b-8458-d636ee09231d" />
